@@ -1,0 +1,14 @@
+{
+  "name": "odaniait-artifactory",
+  "version": "0.1.0",
+  "author": "odaniait",
+  "summary": "Install artifactory",
+  "license": "Apache-2.0",
+  "source": "https://github.com/Odania-IT/puppet-artifactory",
+  "project_page": "https://github.com/Odania-IT/puppet-artifactory",
+  "issues_url": "https://github.com/Odania-IT/puppet-artifactory/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
