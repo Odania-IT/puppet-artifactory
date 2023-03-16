@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     diff-lcs (1.2.5)
-    facter (2.4.4)
+    facter (2.5.7)
     hiera (2.0.0)
       json_pure
     json_pure (1.8.2)
@@ -47,3 +47,6 @@ DEPENDENCIES
   puppet (>= 3.3)
   puppet-lint (>= 1.0.0)
   puppetlabs_spec_helper (>= 0.8.2)
+
+BUNDLED WITH
+   2.4.8
